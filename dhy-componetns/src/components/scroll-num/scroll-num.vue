@@ -28,7 +28,7 @@
 <script>
 
 export default {
-  name: "ScrollNum",
+  name: "scroll-num",
   props: {
     // 滚动的数字
     i: {

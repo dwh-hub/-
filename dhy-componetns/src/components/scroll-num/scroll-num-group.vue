@@ -14,6 +14,7 @@
 import scrollNum from "./scroll-num.vue";
 
 export default {
+  name: "scroll-num-group",
   props: {
     // 滚动数字
     num: {
